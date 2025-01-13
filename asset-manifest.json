@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.baf2018c.css",
+    "main.js": "./static/js/main.0be59da9.js",
+    "static/js/453.7aa65040.chunk.js": "./static/js/453.7aa65040.chunk.js",
+    "static/media/Arima-VariableFont_wght.ttf": "./static/media/Arima-VariableFont_wght.42dd71df062dd13e3987.ttf",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "./static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "./static/media/PlayfairDisplay-Italic-VariableFont_wght.597cf3569777ae281144.ttf",
+    "static/media/Aleo-Italic-VariableFont_wght.ttf": "./static/media/Aleo-Italic-VariableFont_wght.1885a01a3be9dd4a15cf.ttf",
+    "static/media/Aleo-VariableFont_wght.ttf": "./static/media/Aleo-VariableFont_wght.517c1b523dc888fa3893.ttf",
+    "static/media/stool_with_circle_c.svg": "./static/media/stool_with_circle_c.9552d5fbaef3d0cd2ec979eceb7b0ff6.svg",
+    "static/media/viz_with_circle_c.svg": "./static/media/viz_with_circle_c.497bc3078acbba7ce551aab661347b86.svg",
+    "index.html": "./index.html",
+    "main.baf2018c.css.map": "./static/css/main.baf2018c.css.map",
+    "main.0be59da9.js.map": "./static/js/main.0be59da9.js.map",
+    "453.7aa65040.chunk.js.map": "./static/js/453.7aa65040.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf2018c.css",
+    "static/js/main.0be59da9.js"
+  ]
+}
